@@ -3,3 +3,11 @@ Colección de payloads en Duckyscript para hacer bruteforce a Pins de dispositiv
 
 ![flipper-bad-usb](https://github.com/user-attachments/assets/7f82364c-f613-44c6-96df-aef9b474c049)
 
+## Pasos de instalación
+
+1. Descargar en local el repositorio
+2. Abrir la app de qFlipper
+3. Ir a SD / Bad USB
+4. Copiar los archivos
+5. Conectar el Flipper al dispositivo a crackear
+6. Ejecutar el script con la pantalla de bloqueo activa
